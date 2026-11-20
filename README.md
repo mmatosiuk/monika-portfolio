@@ -7,5 +7,5 @@ I am an entry-level data analyst with a technical background in Visual Data Anal
 - Microsoft Excel
 - Power BI
 
-  ## Let's connect
+## Let's connect
   [Linkedin] (https://www.linkedin.com/in/monika-matosiuk/)
